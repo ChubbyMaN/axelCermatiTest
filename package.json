@@ -1,0 +1,14 @@
+{
+  "name": "axel_cypress",
+  "version": "1.0.0",
+  "description": "This is for my technical test",
+  "main": "cypressTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Axel Matthew",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.2.0"
+  }
+}
